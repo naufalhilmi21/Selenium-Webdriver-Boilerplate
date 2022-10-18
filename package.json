@@ -1,0 +1,33 @@
+{
+  "author": "Naufal Hilmi",
+  "dependencies": {
+    "chromedriver": "^106.0.1",
+    "jest": "26.6.3",
+    "selenium-webdriver": "4.0.0-beta.4",
+    "webdriver-manager": "12.1.8"
+  },
+  "description": "Selenium-WebDriver end-to-end test automation boilerplate. Using Commonjs, Jest and Expect.",
+  "keywords": [
+    "commonjs",
+    "expect",
+    "jest",
+    "selenium",
+    "selenium-webdriver",
+    "selenium-webdriver automation",
+    "selenium-webdriver boilerplate",
+    "selenium-webdriver example",
+    "webdriver manager",
+    "e2e",
+    "e2e tests",
+    "boilerplate",
+    "integration test",
+    "test automation",
+    "javascript"
+  ],
+  "license": "MIT",
+  "name": "selenium-webdriver-commonjs-jest-expect",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "version": "1.0.0"
+}
